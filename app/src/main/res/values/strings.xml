@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SeguimientoResidencias</string>
+    <string name="username">Usuario...</string>
+    <string name="password">Paswoord...</string>
+    <string name="login">Inicio de session...</string>
+
+    <string name="errorLogin">
+        <![CDATA[
+        <h1>ITSA</h1>
+        <h2>Hola :)</strong> Fallaste.</strong></h2>
+        <ul>
+            <li><h2>Asegurate de <strong>ingresar bien tu contraseña y correo/matricula...</strong></h2></li>
+        </ul>
+       <ul>
+
+       </ul>
+        ]]>
+    </string>
+    <string name="tituloPermisos">Permisos Desactivados...</string>
+    <string name="mensajePermisos">Debes aceptar los permisos para el correcto funcionamiento de la App...</string>
+
+    <string name="tituloSalir">Hola...</string>
+    <string name="mensajeSalir">Estas seguro que deseas salir?...</string>
+
+</resources>
